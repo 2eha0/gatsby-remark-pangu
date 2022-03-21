@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-remark-pangu",
+  "version": "0.1.0",
+  "description": "A gatsby plugin for adding text spaces by pangu.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2eha0/gatsby-remark-pangu.git"
+  },
+  "author": "Zehao <mail@zehao.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2eha0/gatsby-remark-pangu/issues"
+  },
+  "homepage": "https://github.com/2eha0/gatsby-remark-pangu#readme",
+  "dependencies": {
+    "pangu": "^4.0.7",
+    "unist-util-visit": "^2.0.2"
+  }
+}
