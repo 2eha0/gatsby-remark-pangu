@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-pangu",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A gatsby plugin for adding text spaces by pangu.js",
   "main": "index.js",
   "scripts": {
